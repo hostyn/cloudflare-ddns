@@ -4,7 +4,7 @@ A simple cloudflare DDNS updater.
 
 ## Installation
 
-You can use de docker image: `ghcr.io/hostyn/cloudflare-ddns`
+You can use the docker image: `ghcr.io/hostyn/cloudflare-ddns`
 
 You will need to create a cloudflare token. You can create one [here](https://dash.cloudflare.com/profile/api-tokens).
 
